@@ -106,7 +106,7 @@
 </p>
 
 
-
+<details>
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -115,7 +115,7 @@
 <br/>
   &nbsp;
   </p>
- 
+ </details>
 
 
 <details>
