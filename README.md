@@ -105,7 +105,7 @@
 <summary><b>💻Languages</b></summary>
 <br/>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkanhaiyakumar&show_icons=true&locale=en&layout=compact" alt="iamkanhaiyakumar" height="192px"/>
+	<a href="https://github.com/iamkanhaiyakumar"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkanhaiyakumar&show_icons=true&locale=en&layout=compact" alt="iamkanhaiyakumar" height="192px"/></a>
   <br/>
 </p>
 
