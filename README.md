@@ -115,7 +115,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kanhiay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamkanhaiyakumar&show_icons=true&locale=en" alt="iamkanhaiyakumar" height="192px"/></a>
+    <a href="https://github.com/iamkanhaiyakumar/github-readme-stats"><img alt="Kanhiay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamkanhaiyakumar&show_icons=true&locale=en" alt="iamkanhaiyakumar" height="192px"/></a>
 <br/>
   &nbsp;
   </p>
