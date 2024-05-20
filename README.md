@@ -44,6 +44,11 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 
+<a href="https://tailwindcss.com/" target="_blank">
+  <img alt="TailWind" src="https://img.shields.io/badge/Tailwind-8A2BE2?style=for-the-badge&logo=tailwind3&logoColor=white">
+</a>
+
+
 <a href="https://www.javascript.com/" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
