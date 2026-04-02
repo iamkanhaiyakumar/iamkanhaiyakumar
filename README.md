@@ -78,7 +78,7 @@
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
   </a>
 
-  <a href="#" target="_blank">
+  <a href="#">
     <img alt="RAG" src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge">
   </a>
 
@@ -95,28 +95,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/>
-  </a>
-</p>
-
 ---
 
 ## Github Stats
@@ -127,7 +105,7 @@
 
 <p align="center">
   <a href="https://github.com/iamkanhaiyakumar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkanhaiyakumar&show_icons=true&locale=en&layout=compact" alt="iamkanhaiyakumar" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkanhaiyakumar&show_icons=true&locale=en&layout=compact" height="192px"/>
   </a>
 </p>
 
@@ -136,11 +114,11 @@
 
 <p align="center">
   <a href="https://github.com/iamkanhaiyakumar">
-    <img alt="Kanhiaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamkanhaiyakumar&show_icons=true&locale=en" alt="iamkanhaiyakumar" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=iamkanhaiyakumar&show_icons=true&locale=en" height="192px"/>
   </a>
 </p>
 
-</details>
+---
 
 <h2 align="center">⚡ GitHub Streak</h2>
 
@@ -154,13 +132,9 @@
 
 ---
 
-</details>
-
----
-
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamkanhaiyakumar&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" />
 </p>
