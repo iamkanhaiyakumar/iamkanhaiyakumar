@@ -34,71 +34,86 @@
 
 ---
 
----
-
 ## Tech Stack
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">  
 
-<p align="center"> 
+<p align="center">
+
+  <!-- Row 1 -->
   <a href="https://www.w3schools.com/cpp/default.asp" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/doc/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://www.w3schools.com/html/" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://tailwindcss.com/" target="_blank">
+  <a href="https://tailwindcss.com/docs" target="_blank">
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
   </a>
 
-  <a href="https://www.javascript.com/" target="_blank">
+  <br><br>
+
+  <!-- Row 2 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://opencv.org/" target="_blank">
+  <a href="https://docs.opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white">
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://numpy.org/" target="_blank">
+  <a href="https://numpy.org/doc/" target="_blank">
     <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://pandas.pydata.org/" target="_blank">
+  <a href="https://pandas.pydata.org/docs/" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://scikit-learn.org/" target="_blank">
+  <a href="https://scikit-learn.org/stable/documentation.html" target="_blank">
     <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
 
-  <a href="https://www.langchain.com/" target="_blank">
+  <br><br>
+
+  <!-- Row 3 -->
+  <a href="https://docs.langchain.com/" target="_blank">
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="#">
+  <a href="#" target="_blank">
     <img alt="RAG" src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge">
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://docs.jupyter.org/en/latest/" target="_blank">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://git-scm.com/doc" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://github.com/" target="_blank">
+  <a href="https://docs.github.com/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> 
-  </a>
+  </a>&nbsp;&nbsp;
 
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://code.visualstudio.com/docs" target="_blank">
     <img alt="VS Code" src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>    
   </a>
+
 </p>
 
 ---
