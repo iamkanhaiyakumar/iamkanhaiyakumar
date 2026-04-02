@@ -35,7 +35,7 @@
 ---
 
 ## Tech Stack
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">  
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="12px">  
 
 <p align="center">
 
