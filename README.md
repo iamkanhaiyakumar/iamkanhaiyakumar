@@ -120,23 +120,25 @@
 ## Github Stats
 <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px">
 
-<summary><b>💻Languages</b></summary>
-<br/>
+<details>
+  <summary><b>💻 Languages</b></summary>
+  <br/>
 
-<p align="center">
-  <a href="https://github.com/iamkanhaiyakumar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkanhaiyakumar&show_icons=true&locale=en&layout=compact" height="192px"/>
-  </a>
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkanhaiyakumar&show_icons=true&locale=en&layout=compact"/>
+  </p>
+</details>
 
-<summary><b>💻 GitHub Profile Stats</b></summary>
-<br/>
+---
 
-<p align="center">
-  <a href="https://github.com/iamkanhaiyakumar">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamkanhaiyakumar&show_icons=true&locale=en" height="192px"/>
-  </a>
-</p>
+<details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamkanhaiyakumar&show_icons=true&locale=en"/>
+  </p>
+</details>
 
 ---
 
