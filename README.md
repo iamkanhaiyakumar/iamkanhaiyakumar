@@ -33,8 +33,8 @@
 
 ---
 
-## Tech Stack
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="12px">  
+## Tech Stack 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22px">  
 
 <p align="center">
 
@@ -118,6 +118,8 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
+<img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px">
+
 
 <h2 align="center">💻 Top Languages</h2>
 
