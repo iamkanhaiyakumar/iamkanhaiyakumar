@@ -11,14 +11,14 @@
 <img align="right" alt="coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="center">
-  </a>
   <a href="https://linkedin.com/in/kanhaiyakumar01" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
   <a href="https://twitter.com/kanhaiyakr01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
   </a>
-  </a>
+
   <a href="mailto:kanhaiyak0104@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
@@ -37,24 +37,30 @@
   <a href="https://www.w3schools.com/cpp/default.asp" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   </a>
+
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
+
   <a href="https://www.w3schools.com/Css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
+
   <a href="https://tailwindcss.com/" target="_blank">
     <img alt="TailWind" src="https://img.shields.io/badge/Tailwind-8A2BE2?style=for-the-badge&logo=tailwind3&logoColor=white">
   </a>
+
   <a href="https://www.javascript.com/" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
+</p>
 
-  ## Tech Stack
+---
+
+## Tech Stack
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">  
 
 <p align="center"> 
-
   <a href="https://www.w3schools.com/cpp/default.asp" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> 
   </a>
@@ -114,9 +120,9 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="VS Code" src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>    
   </a>
-
 </p>
 
+<p align="center">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
@@ -125,14 +131,14 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 
-
-
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
+
   <a href="https://github.com/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/>
   </a>
@@ -174,6 +180,7 @@
 </p>
 
 ---
+
 </details>
 
 ---
