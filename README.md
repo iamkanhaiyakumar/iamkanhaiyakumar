@@ -134,7 +134,7 @@
 <h2 align="center">📊 GitHub Profile Stats</h2>
 
 <p align="center">
-  <img alt="Kanhiaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamkanhaiyakumar&show_icons=true&locale=en" alt="iamkanhaiyakumar" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkanhaiyakumar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" height="192px"/>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=iamkanhaiyakumar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180px"/> -->
 </p>
 
