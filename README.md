@@ -9,7 +9,6 @@
 </p>
 
 
-
 <p align="center">
   <a href="https://linkedin.com/in/kanhaiyakumar01" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -60,7 +59,7 @@
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
   </a>
 
-  <br><br>
+  <br>
 
   <!-- Row 2 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -83,7 +82,7 @@
     <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a>
 
-  <br><br>
+  <br>
 
   <!-- Row 3 -->
   <a href="https://docs.langchain.com/" target="_blank">
