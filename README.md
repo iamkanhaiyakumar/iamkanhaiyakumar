@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  A 3rd Year Computer Science Student at LNCTE Bhopal who is a passionate Programmer , Fronted Web Developer.
+  Final Year CSE (AI/ML) student passionate about AI-driven solutions and web development. Experienced in building real-time computer vision systems using YOLO and deploying ML-based applications. Proficient in Python, OpenCV, and modern frontend technologies, with growing expertise in Generative AI and LangChain.
 </p>
 
 ---
