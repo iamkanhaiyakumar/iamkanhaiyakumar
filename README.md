@@ -31,33 +31,6 @@
 ---
 
 ## Tech Stack
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
-
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/default.asp" target="_blank">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  </a>
-
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-
-  <a href="https://www.w3schools.com/Css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  </a>
-
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="TailWind" src="https://img.shields.io/badge/Tailwind-8A2BE2?style=for-the-badge&logo=tailwind3&logoColor=white">
-  </a>
-
-  <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-</p>
-
----
-
-## Tech Stack
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">  
 
 <p align="center"> 
