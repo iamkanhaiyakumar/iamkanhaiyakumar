@@ -3,11 +3,11 @@
 
 
 <h2 align="center">🌟 About Me</h2>
-<img align="right" alt="coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub+Profile!;🎓+Final+Year+CSE+(AI+%26+ML)+Student+at+LNCTE+Bhopal;🤖+Passionate+about+AI%2FML%2C+Computer+Vision+%26+Web+Development;💡+Built+real-time+systems+using+YOLO%2C+OpenCV+%26+ML;🚀+Developed+ML-based+web+applications;🧠+Exploring+Generative+AI%2C+LangChain+%26+RAG;🎯+Goal%3A+AI+Engineer+%26+Software+Developer" />
 </p>
-
+<img align="right" alt="coding" width="180" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 
 
