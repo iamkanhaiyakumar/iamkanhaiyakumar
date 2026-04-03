@@ -2,13 +2,13 @@
 
 <h2>🌟 About Me</h2>
 <table>
-
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="160"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00F7FF&lines=👋+Welcome+to+my+GitHub+Profile!;🎓+Final+Year+CSE+(AI+%26+ML)+Student;🤖+AI%2FML+%7C+Computer+Vision+%7C+Web+Dev;💡+YOLO+%2B+OpenCV+Projects;🚀+ML+Web+Applications;🧠+GenAI+%7C+LangChain+%7C+RAG;🎯+AI+Engineer+Goal" />
 
 
 </table>
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="160"/>
+
 
 
 
