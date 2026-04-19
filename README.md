@@ -80,18 +80,26 @@
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   </a>&nbsp;&nbsp;
 
-  <a href="https://scikit-learn.org/stable/documentation.html">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a>
-
+<a href="https://seaborn.pydata.org/">
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
+</a>&nbsp;&nbsp;
   <br>
 
   <!-- Row 3 -->
+
+  <a href="https://matplotlib.org/">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+</a>&nbsp;&nbsp;
+      
+  <a href="https://scikit-learn.org/stable/documentation.html">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+  
   <a href="https://docs.langchain.com/">
     <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
   </a>&nbsp;&nbsp;
 
-  <a href="#">
+  <a href="https://docs.langchain.com/oss/python/langchain/rag">
     <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge">
   </a>&nbsp;&nbsp;
 
