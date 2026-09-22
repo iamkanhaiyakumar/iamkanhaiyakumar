@@ -1,0 +1,40 @@
+name: Generate GitHub Contribution Snake Game
+
+on:
+  schedule:
+    # Runs automatically every day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate Custom Contribution Snake Game
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate_snake.py --user iamkanhaiyakumar --output output/github-snake.svg
+
+      - name: Commit and push generated snake game
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/github-snake.svg
+          if git diff --staged --quiet; then
+            echo "No changes in contribution snake game. Skipping commit."
+          else
+            git commit -m "Update animated GitHub Contribution Snake Game [skip ci]"
+            git push
+          fi
