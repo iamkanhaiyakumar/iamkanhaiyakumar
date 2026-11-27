@@ -2412,6 +2412,24 @@
             transform: scale(1);
           }
         }
+
+        @keyframes eat_52_5 {
+          0%, 74.02% {
+            fill: #00f7ff;
+            opacity: 1;
+            transform: scale(1);
+          }
+          74.22% {
+            fill: #ffffff;
+            opacity: 1;
+            transform: scale(1.35);
+          }
+          74.72%, 100% {
+            fill: #196127;
+            opacity: 0.65;
+            transform: scale(1);
+          }
+        }
       .snake-head { animation: move_head 18.0s linear infinite; filter: url(#glow); }
       .snake-b1 { animation: move_b1 18.0s linear infinite; }
       .snake-b2 { animation: move_b2 18.0s linear infinite; }
@@ -2426,8 +2444,8 @@
     <rect x="235" y="4" width="70" height="16" rx="4" fill="#238636" opacity="0.2" />
     <rect x="235" y="4" width="70" height="16" rx="4" fill="none" stroke="#2ea043" stroke-width="1" />
     <text x="270" y="16" fill="#3fb950" font-size="9.5" font-weight="700" text-anchor="middle">LIVE DATA</text>
-    <text x="325" y="16" fill="#8b949e" font-size="11">🍎 SCORE: <tspan fill="#ffd700" font-weight="700">2,575 PTS</tspan></text>
-    <text x="455" y="16" fill="#8b949e" font-size="11">🍏 FOOD: <tspan fill="#39d353" font-weight="700">70</tspan></text>
+    <text x="325" y="16" fill="#8b949e" font-size="11">🍎 SCORE: <tspan fill="#ffd700" font-weight="700">2,600 PTS</tspan></text>
+    <text x="455" y="16" fill="#8b949e" font-size="11">🍏 FOOD: <tspan fill="#39d353" font-weight="700">71</tspan></text>
     <text x="540" y="16" fill="#8b949e" font-size="11">🔥 STREAK: <tspan fill="#ff7b72" font-weight="700">8D</tspan></text>
     <rect x="0" y="28" width="739" height="3" rx="1.5" fill="#21262d" />
     <rect class="hud-prog" x="0" y="28" height="3" rx="1.5" fill="url(#hudGrad)" />
@@ -2824,6 +2842,7 @@
     <rect x="762" y="93" width="11" height="11" rx="2.5" fill="#161b22" stroke="#21262d" stroke-width="0.5" />
     <rect x="762" y="107" width="11" height="11" rx="2.5" fill="#161b22" stroke="#21262d" stroke-width="0.5" />
     <rect x="762" y="121" width="11" height="11" rx="2.5" fill="#161b22" stroke="#21262d" stroke-width="0.5" />
+    <rect x="762" y="135" width="11" height="11" rx="2.5" fill="#161b22" stroke="#21262d" stroke-width="0.5" />
   </g>
   <!-- Real Contribution Food Pellets (count >= 1) -->
   <g>
@@ -2897,6 +2916,7 @@
     <rect id="food-43-2" x="636" y="93" width="11" height="11" rx="2.5" fill="#39d353" style="animation: eat_43_2 18.0s linear infinite; transform-box: fill-box; transform-origin: center;" />
     <rect id="food-52-1" x="762" y="79" width="11" height="11" rx="2.5" fill="#ffd700" style="animation: eat_52_1 18.0s linear infinite; transform-box: fill-box; transform-origin: center;" />
     <rect id="food-52-2" x="762" y="93" width="11" height="11" rx="2.5" fill="#ffd700" style="animation: eat_52_2 18.0s linear infinite; transform-box: fill-box; transform-origin: center;" />
+    <rect id="food-52-5" x="762" y="135" width="11" height="11" rx="2.5" fill="#00f7ff" style="animation: eat_52_5 18.0s linear infinite; transform-box: fill-box; transform-origin: center;" />
   </g>
   <!-- Animated Snake Body & Head -->
   <g>
@@ -2910,7 +2930,7 @@
   <!-- Footer Stats -->
   <g transform="translate(34, 174)">
     <text x="0" y="0" fill="#484f58" font-size="9">TARGET: @iamkanhaiyakumar</text>
-    <text x="120" y="0" fill="#484f58" font-size="9">CONTRIBUTIONS: 425</text>
+    <text x="120" y="0" fill="#484f58" font-size="9">CONTRIBUTIONS: 428</text>
     <text x="245" y="0" fill="#484f58" font-size="9">SPEED: FAST (80ms/cell)</text>
     <text x="739" y="0" fill="#484f58" font-size="9" text-anchor="end">FOOD TIERS: 🟩 1-2 · 🟦 3-5 · 🟨 6-10 · 🟪 10+</text>
   </g>
